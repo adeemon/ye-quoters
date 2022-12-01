@@ -37,6 +37,7 @@ body {
     min-width: 120px;
     position: relative;
     &__container {
+        overflow: hidden;
         height: 100%;
         width: 100%;
         background-color: $darkBlue;
